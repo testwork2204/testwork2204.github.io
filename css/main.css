@@ -112,6 +112,9 @@ a.header_link{
   .stable{
   	display: none;
   }
+  #line_mast{
+	width: 100%;
+  }
 
 }
 
