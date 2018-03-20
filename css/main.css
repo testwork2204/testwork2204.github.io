@@ -17,6 +17,12 @@ a.header_link{
 	font-family: "Arial";
 }
 @media screen and (max-width: 768px) {
+
+.navbar.navbar-expand-lg.justify-content-sm-center
+{
+justify-content: center;
+}
+
   .link {
     margin-left: 5px;
   }
@@ -111,6 +117,9 @@ a.header_link{
   }
   .stable{
   	display: none;
+  }
+  #line_mast{
+	width: 100%;
   }
 
 }
