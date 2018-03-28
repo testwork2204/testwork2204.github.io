@@ -565,6 +565,9 @@ justify-content: center;
 #spryatat{
   	margin-bottom:175px; 
   }
+	.otstup{
+  	margin-top: 50px;
+  }
 }
 @media screen and (max-width: 372px){
 	.prod_clas2_next{
@@ -603,7 +606,5 @@ justify-content: center;
   .prod_clas_next_2{
   	margin-left: 140px;
   }
-  .otstup{
-  	margin-top: 50px;
-  }
+  
 }
