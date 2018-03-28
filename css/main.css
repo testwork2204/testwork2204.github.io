@@ -542,6 +542,7 @@ justify-content: center;
   }
 
 }
+
 @media screen and (max-width: 765px) and (min-width: 373px)
 {
 #prod_clas2{
@@ -559,7 +560,12 @@ justify-content: center;
   .line-f_plus{
   	width: 355px;
   }
-}  
+}
+@media screen and (max-width: 426px){
+#spryatat{
+  	margin-bottom:175px; 
+  }
+}
 @media screen and (max-width: 372px){
 	.prod_clas2_next{
 		margin-left: 20px;
@@ -599,8 +605,5 @@ justify-content: center;
   }
   .otstup{
   	margin-top: 50px;
-  }
-  #spryatat{
-  	margin-bottom:175px; 
   }
 }
